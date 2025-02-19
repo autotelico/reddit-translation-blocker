@@ -1,0 +1,12 @@
+{
+  "name": "reddit-translation-blocker",
+  "version": "1.0.0",
+  "main": "scripts/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Block translated Reddit posts from your Google search results. Forever."
+}
